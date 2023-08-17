@@ -18,9 +18,9 @@ sites:
   - name: PMNAGE
     url: https://www.pmang.jp
   - name: XIYOUXI
-    url: https://www.xiyouxi.com
+    url: http://www.xiyouxi.com/
   - name: QIJISOFT
-    url: https://www.xiyouxi.com
+    url: http://qijisoft.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
