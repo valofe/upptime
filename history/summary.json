@@ -113,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
     "status": "down",
-    "uptime": "12.00%",
-    "uptimeDay": "12.00%",
-    "uptimeWeek": "12.00%",
-    "uptimeMonth": "12.00%",
-    "uptimeYear": "12.00%",
+    "uptime": "11.58%",
+    "uptimeDay": "11.58%",
+    "uptimeWeek": "11.58%",
+    "uptimeMonth": "11.58%",
+    "uptimeYear": "11.58%",
     "time": 1335,
     "timeDay": 1335,
     "timeWeek": 1335,
     "timeMonth": 1335,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2023-08-17": 894
+      "2023-08-18": 32,
+      "2023-08-17": 899
     }
   },
   {
