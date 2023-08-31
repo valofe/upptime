@@ -76,10 +76,10 @@
     "url": "https://www.valofe.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.valofe.com.ico",
     "slug": "valofe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
@@ -87,16 +87,18 @@
     "timeWeek": 620,
     "timeMonth": 650,
     "timeYear": 650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 1
+    }
   },
   {
     "name": "VFUN",
     "url": "https://vfun.valofe.com",
     "icon": "https://icons.duckduckgo.com/ip3/vfun.valofe.com.ico",
     "slug": "vfun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +107,9 @@
     "timeWeek": 624,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 0
+    }
   },
   {
     "name": "PMANG",
@@ -113,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
     "status": "up",
-    "uptime": "13.81%",
-    "uptimeDay": "11.49%",
-    "uptimeWeek": "9.60%",
-    "uptimeMonth": "13.81%",
-    "uptimeYear": "13.81%",
+    "uptime": "13.90%",
+    "uptimeDay": "12.93%",
+    "uptimeWeek": "9.80%",
+    "uptimeMonth": "13.90%",
+    "uptimeYear": "13.90%",
     "time": 1270,
     "timeDay": 1206,
     "timeWeek": 1258,
