@@ -42,9 +42,9 @@
     "slug": "hacker-news",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 427,
@@ -52,7 +52,7 @@
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 11
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://www.pmang.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
-    "status": "up",
-    "uptime": "61.42%",
-    "uptimeDay": "7.44%",
-    "uptimeWeek": "11.52%",
-    "uptimeMonth": "61.42%",
-    "uptimeYear": "61.42%",
+    "status": "down",
+    "uptime": "61.45%",
+    "uptimeDay": "8.90%",
+    "uptimeWeek": "11.73%",
+    "uptimeMonth": "61.45%",
+    "uptimeYear": "61.45%",
     "time": 1248,
     "timeDay": 1219,
     "timeWeek": 1229,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2023-09-13": 849,
+      "2023-09-13": 839,
       "2023-09-12": 1328,
       "2023-09-11": 1250,
       "2023-09-10": 1229,
