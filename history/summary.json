@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 428,
-    "timeWeek": 386,
-    "timeMonth": 325,
-    "timeYear": 325,
-    "dailyMinutesDown": {}
+    "time": 320,
+    "timeDay": 351,
+    "timeWeek": 364,
+    "timeMonth": 320,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2023-09-13": 1
+    }
   },
   {
     "name": "Test Broken Site",
@@ -112,12 +114,12 @@
     "url": "https://www.pmang.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
-    "status": "up",
-    "uptime": "61.42%",
-    "uptimeDay": "8.91%",
-    "uptimeWeek": "11.73%",
-    "uptimeMonth": "61.42%",
-    "uptimeYear": "61.42%",
+    "status": "down",
+    "uptime": "61.51%",
+    "uptimeDay": "10.02%",
+    "uptimeWeek": "11.89%",
+    "uptimeMonth": "61.51%",
+    "uptimeYear": "61.51%",
     "time": 1248,
     "timeDay": 1221,
     "timeWeek": 1229,
@@ -136,7 +138,7 @@
       "2023-09-04": 1419,
       "2023-09-03": 1261,
       "2023-09-02": 1278,
-      "2023-09-01": 221
+      "2023-09-01": 191
     }
   },
   {
