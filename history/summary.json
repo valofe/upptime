@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 124,
-    "timeWeek": 148,
+    "time": 127,
+    "timeDay": 84,
+    "timeWeek": 145,
     "timeMonth": 139,
-    "timeYear": 128,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 534,
-    "timeWeek": 300,
-    "timeMonth": 215,
-    "timeYear": 216,
+    "time": 219,
+    "timeDay": 336,
+    "timeWeek": 338,
+    "timeMonth": 217,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 424,
-    "timeWeek": 290,
-    "timeMonth": 304,
-    "timeYear": 303,
+    "time": 306,
+    "timeDay": 458,
+    "timeWeek": 324,
+    "timeMonth": 313,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2023-09-13": 21
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 1000,
-    "timeWeek": 916,
-    "timeMonth": 761,
-    "timeYear": 744,
+    "time": 745,
+    "timeDay": 816,
+    "timeWeek": 901,
+    "timeMonth": 771,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 765,
-    "timeWeek": 789,
-    "timeMonth": 691,
-    "timeYear": 665,
+    "time": 674,
+    "timeDay": 1041,
+    "timeWeek": 825,
+    "timeMonth": 712,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -114,12 +114,12 @@
     "url": "https://www.pmang.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
-    "status": "up",
-    "uptime": "67.85%",
-    "uptimeDay": "15.24%",
-    "uptimeWeek": "8.69%",
-    "uptimeMonth": "62.31%",
-    "uptimeYear": "67.85%",
+    "status": "down",
+    "uptime": "67.99%",
+    "uptimeDay": "16.41%",
+    "uptimeWeek": "8.86%",
+    "uptimeMonth": "62.46%",
+    "uptimeYear": "67.99%",
     "time": 1248,
     "timeDay": 1236,
     "timeWeek": 1243,
@@ -138,7 +138,7 @@
       "2023-09-12": 1328,
       "2023-09-11": 1250,
       "2023-09-10": 1229,
-      "2023-09-09": 949
+      "2023-09-09": 882
     }
   },
   {
@@ -152,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 890,
-    "timeWeek": 816,
-    "timeMonth": 806,
-    "timeYear": 804,
+    "time": 806,
+    "timeDay": 882,
+    "timeWeek": 824,
+    "timeMonth": 814,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 932,
-    "timeWeek": 847,
-    "timeMonth": 813,
-    "timeYear": 808,
+    "time": 812,
+    "timeDay": 938,
+    "timeWeek": 858,
+    "timeMonth": 821,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   }
 ]
