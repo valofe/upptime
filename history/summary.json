@@ -114,12 +114,12 @@
     "url": "https://www.pmang.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
-    "status": "up",
-    "uptime": "71.55%",
-    "uptimeDay": "5.17%",
-    "uptimeWeek": "8.81%",
-    "uptimeMonth": "58.34%",
-    "uptimeYear": "71.55%",
+    "status": "down",
+    "uptime": "71.69%",
+    "uptimeDay": "7.38%",
+    "uptimeWeek": "9.13%",
+    "uptimeMonth": "58.52%",
+    "uptimeYear": "71.69%",
     "time": 1239,
     "timeDay": 1222,
     "timeWeek": 1207,
@@ -139,8 +139,7 @@
       "2023-09-20": 1377,
       "2023-09-19": 1326,
       "2023-09-18": 1375,
-      "2023-09-17": 1265,
-      "2023-09-16": 80
+      "2023-09-17": 1265
     }
   },
   {
