@@ -13,7 +13,7 @@
     "time": 120,
     "timeDay": 65,
     "timeWeek": 89,
-    "timeMonth": 135,
+    "timeMonth": 137,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 309,
     "timeDay": 412,
     "timeWeek": 339,
-    "timeMonth": 310,
+    "timeMonth": 307,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2023-09-13": 21
@@ -87,7 +87,7 @@
     "time": 783,
     "timeDay": 703,
     "timeWeek": 947,
-    "timeMonth": 854,
+    "timeMonth": 860,
     "timeYear": 783,
     "dailyMinutesDown": {}
   },
@@ -105,7 +105,7 @@
     "time": 702,
     "timeDay": 653,
     "timeWeek": 793,
-    "timeMonth": 758,
+    "timeMonth": 759,
     "timeYear": 702,
     "dailyMinutesDown": {}
   },
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
     "status": "up",
-    "uptime": "71.48%",
-    "uptimeDay": "6.24%",
-    "uptimeWeek": "9.13%",
+    "uptime": "71.50%",
+    "uptimeDay": "9.15%",
+    "uptimeWeek": "9.55%",
     "uptimeMonth": "58.09%",
-    "uptimeYear": "71.48%",
+    "uptimeYear": "71.50%",
     "time": 1239,
     "timeDay": 1199,
     "timeWeek": 1206,
@@ -156,7 +156,7 @@
     "time": 813,
     "timeDay": 916,
     "timeWeek": 865,
-    "timeMonth": 816,
+    "timeMonth": 818,
     "timeYear": 813,
     "dailyMinutesDown": {}
   },
@@ -174,7 +174,7 @@
     "time": 818,
     "timeDay": 866,
     "timeWeek": 843,
-    "timeMonth": 824,
+    "timeMonth": 827,
     "timeYear": 818,
     "dailyMinutesDown": {}
   }
