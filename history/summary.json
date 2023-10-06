@@ -6,8 +6,8 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
@@ -15,7 +15,9 @@
     "timeWeek": 81,
     "timeMonth": 116,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 1
+    }
   },
   {
     "name": "Wikipedia",
@@ -115,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
     "status": "down",
-    "uptime": "77.86%",
+    "uptime": "77.73%",
     "uptimeDay": "17.84%",
-    "uptimeWeek": "10.37%",
-    "uptimeMonth": "63.39%",
-    "uptimeYear": "77.86%",
+    "uptimeWeek": "10.07%",
+    "uptimeMonth": "63.11%",
+    "uptimeYear": "77.73%",
     "time": 1244,
     "timeDay": 1230,
-    "timeWeek": 1266,
+    "timeWeek": 1268,
     "timeMonth": 1235,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2023-10-06": 662,
+      "2023-10-06": 786,
       "2023-10-05": 1278,
       "2023-10-04": 1349,
       "2023-10-03": 1281,
