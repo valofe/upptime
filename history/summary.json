@@ -158,19 +158,19 @@
     "url": "http://www.xiyouxi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiyouxi.com.ico",
     "slug": "xiyouxi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 732,
-    "timeWeek": 816,
-    "timeMonth": 793,
-    "timeYear": 813,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 812,
+    "timeDay": 701,
+    "timeWeek": 796,
+    "timeMonth": 789,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2024-01-24": 1
+      "2024-01-24": 21
     }
   },
   {
@@ -178,19 +178,19 @@
     "url": "http://qijisoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qijisoft.com.ico",
     "slug": "qijisoft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 942,
-    "timeWeek": 863,
-    "timeMonth": 821,
-    "timeYear": 817,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 816,
+    "timeDay": 850,
+    "timeWeek": 841,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-01-24": 11
+      "2024-01-24": 31
     }
   }
 ]
