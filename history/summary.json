@@ -158,9 +158,9 @@
     "url": "http://www.xiyouxi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiyouxi.com.ico",
     "slug": "xiyouxi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -170,6 +170,7 @@
     "timeMonth": 819,
     "timeYear": 814,
     "dailyMinutesDown": {
+      "2024-02-25": 0,
       "2024-01-24": 50
     }
   },
@@ -178,9 +179,9 @@
     "url": "http://qijisoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qijisoft.com.ico",
     "slug": "qijisoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -190,6 +191,7 @@
     "timeMonth": 820,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2024-02-25": 0,
       "2024-01-24": 60
     }
   }
