@@ -121,11 +121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
     "status": "up",
-    "uptime": "93.94%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.94%",
+    "uptimeYear": "93.95%",
     "time": 1228,
     "timeDay": 2059,
     "timeWeek": 1328,
@@ -160,9 +160,9 @@
     "slug": "xiyouxi",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 814,
     "timeDay": 808,
@@ -170,7 +170,6 @@
     "timeMonth": 819,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-02-24": 11,
       "2024-01-24": 50
     }
   },
@@ -180,18 +179,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qijisoft.com.ico",
     "slug": "qijisoft",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 816,
     "timeDay": 864,
     "timeWeek": 848,
     "timeMonth": 820,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-02-24": 11,
       "2024-01-24": 60
     }
   }
