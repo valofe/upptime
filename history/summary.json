@@ -86,19 +86,19 @@
     "url": "https://www.valofe.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.valofe.com.ico",
     "slug": "valofe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 891,
-    "timeDay": 2611,
-    "timeWeek": 1541,
-    "timeMonth": 1130,
+    "timeDay": 2156,
+    "timeWeek": 1466,
+    "timeMonth": 1120,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2024-07-16": 10
+      "2024-07-16": 0
     }
   },
   {
