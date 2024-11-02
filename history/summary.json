@@ -105,19 +105,19 @@
     "url": "https://vfun.valofe.com",
     "icon": "https://icons.duckduckgo.com/ip3/vfun.valofe.com.ico",
     "slug": "vfun",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 848,
-    "timeWeek": 653,
-    "timeMonth": 606,
-    "timeYear": 709,
+    "time": 703,
+    "timeDay": 1460,
+    "timeWeek": 831,
+    "timeMonth": 652,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-11-02": 0
+      "2024-11-02": 13
     }
   },
   {
