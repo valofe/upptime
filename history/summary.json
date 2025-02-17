@@ -103,18 +103,20 @@
     "url": "https://vfun.valofe.com",
     "icon": "https://icons.duckduckgo.com/ip3/vfun.valofe.com.ico",
     "slug": "vfun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 688,
-    "timeDay": 909,
-    "timeWeek": 695,
-    "timeMonth": 634,
-    "timeYear": 720,
-    "dailyMinutesDown": {}
+    "timeDay": 745,
+    "timeWeek": 680,
+    "timeMonth": 632,
+    "timeYear": 719,
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "PMANG",
