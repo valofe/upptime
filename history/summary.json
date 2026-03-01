@@ -101,7 +101,7 @@
     "timeMonth": 526,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2026-03-01": 468,
+      "2026-03-01": 480,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 464,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2026-03-01": 468,
+      "2026-03-01": 480,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -881,19 +881,19 @@
     "url": "http://www.xiyouxi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.xiyouxi.com.ico",
     "slug": "xiyouxi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 988,
-    "timeDay": 7774,
-    "timeWeek": 2544,
-    "timeMonth": 1340,
+    "timeDay": 5477,
+    "timeWeek": 2359,
+    "timeMonth": 1324,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2026-03-01": 1
+      "2026-03-01": 12
     }
   },
   {
