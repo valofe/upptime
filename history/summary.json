@@ -101,7 +101,7 @@
     "timeMonth": 129,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2026-08-24": 710,
+      "2026-08-24": 736,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 119,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2026-08-24": 710,
+      "2026-08-24": 736,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -857,16 +857,16 @@
     "url": "https://www.pmang.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.pmang.jp.ico",
     "slug": "pmang",
-    "status": "down",
+    "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 1264,
-    "timeDay": 1017,
-    "timeWeek": 1228,
-    "timeMonth": 1193,
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.92%",
+    "time": 1267,
+    "timeDay": 1070,
+    "timeWeek": 1215,
+    "timeMonth": 1191,
     "timeYear": 1254,
     "dailyMinutesDown": {
       "2025-10-26": 27,
@@ -876,7 +876,7 @@
       "2026-03-08": 24,
       "2026-06-26": 210,
       "2026-06-28": 54,
-      "2026-08-24": 0
+      "2026-08-24": 26
     }
   },
   {
